@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>laoz blog</title>
+  <title>电工兔的博客</title>
   
   <subtitle>热爱无可替代</subtitle>
   <link href="https://laozykk.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://laozykk.github.io/</id>
   
   <author>
-    <name>laoz</name>
+    <name>电工兔</name>
     
   </author>
   
