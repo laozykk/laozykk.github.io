@@ -1,3 +1,11 @@
+https://laozykk.github.io/commonweal/
+https://laozykk.github.io/sitemap/
+https://laozykk.github.io/schedule/
+https://laozykk.github.io/archives/
+https://laozykk.github.io/categories/
+https://laozykk.github.io/about/
+https://laozykk.github.io/home/
+https://laozykk.github.io/tags/
 https://laozykk.github.io/2023/04/14/My-New-Post/
 https://laozykk.github.io/2023/04/14/hello-world/
 https://laozykk.github.io/
