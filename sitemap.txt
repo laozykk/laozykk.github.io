@@ -5,5 +5,4 @@ https://laozykk.github.io/categories/
 https://laozykk.github.io/about/
 https://laozykk.github.io/home/
 https://laozykk.github.io/tags/
-https://laozykk.github.io/2023/04/14/hello-world/
 https://laozykk.github.io/
